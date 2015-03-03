@@ -14,7 +14,7 @@ public class Main {
         System.out.println(driver.getTitle());
         System.out.println(driver.getPageSource());
         WebDriver chdriver = new ChromeDriver();
-        chdriver.get("http://www.google.com");
+        chdriver.get("http://www.utexas.edu");
 
 
     }
